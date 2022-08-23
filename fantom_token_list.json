@@ -20,7 +20,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/AAVE.png",
-
     },
     {
       "name": "Badger",
@@ -29,7 +28,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BADGER.png",
-
     },
     {
       "name": "Band Protocol",
@@ -38,7 +36,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BAND.png",
-
     },
     {
       "name": "SpookySwap",
@@ -55,7 +52,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/COVER.png",
-
     },
     {
       "name": "Cream",
@@ -64,7 +60,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CREAM.png",
-
     },
     {
       "name": "Curve DAO",
@@ -73,7 +68,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CRV.png",
-
     },
     {
       "name": "Dai Stablecoin",
@@ -82,7 +76,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DAI.png",
-
     },
     {
       "name": "Frapped USDT",
@@ -91,7 +84,6 @@
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://assets.spooky.fi/tokens/fUSDT.png",
-
     },
     {
       "name": "Graviton",
@@ -100,7 +92,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/GTON.png",
-   
     },
     {
       "name": "IceToken",
@@ -109,7 +100,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ICE.png",
-    
     },
     {
       "name": "ChainLink",
@@ -118,7 +108,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/LINK.png",
-
     },
     {
       "name": "Synthetix Network",
@@ -127,7 +116,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SNX.png",
-    
     },
     {
       "name": "Sushi",
@@ -136,7 +124,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SUSHI.png",
-    
     },
     {
       "name": "USD Coin",
@@ -145,7 +132,6 @@
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://assets.spooky.fi/tokens/USDC.png",
-    
     },
     {
       "name": "Wrapped Bitcoin",
@@ -154,7 +140,6 @@
       "chainId": 250,
       "decimals": 8,
       "logoURI": "https://assets.spooky.fi/tokens/wBTC.png",
-   
     },
     {
       "name": "Wrapped Ether",
@@ -163,7 +148,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/wETH.png",
-     
     },
     {
       "name": "Wrapped FTM",
@@ -171,7 +155,6 @@
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "chainId": 250,
       "decimals": 18,
-  
     },
     {
       "name": "yearn.finance",
@@ -180,7 +163,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/YFI.png",
-    
     },
     {
       "name": "ZooCoin",
@@ -189,7 +171,6 @@
       "chainId": 250,
       "decimals": 0,
       "logoURI": "https://assets.spooky.fi/tokens/ZOO.png",
-
     },
     {
       "name": "Frax Share",
@@ -198,7 +179,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FXS.png",
-   
     },
     {
       "name": "Binance Coin",
@@ -207,7 +187,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BNB.png",
-     
     },
     {
       "name": "Woofy",
@@ -216,7 +195,6 @@
       "chainId": 250,
       "decimals": 12,
       "logoURI": "https://assets.spooky.fi/tokens/WOOFY.png",
-      
     },
     {
       "name": "Anyswap",
@@ -225,7 +203,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ANY.png",
-
     },
     {
       "name": "Beefy.Finance",
@@ -234,7 +211,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BIFI.png",
- 
     },
     {
       "name": "TOMB",
@@ -243,7 +219,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TOMB.png",
-     
     },
     {
       "name": "TSHARE",
@@ -252,7 +227,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TSHARE.png",
-    
     },
     {
       "name": "Smart Token",
@@ -261,7 +235,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SMART.png",
-      
     },
     {
       "name": "Frax",
@@ -270,7 +243,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FRAX.png",
-     
     },
     {
       "name": "Magic Internet Money",
@@ -279,7 +251,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MIM.png",
-     
     },
     {
       "name": "ShadeToken",
@@ -288,7 +259,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SHADE.png",
-
     },
     {
       "name": "Cryptokek.com",
@@ -297,7 +267,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/KEK.png",
-
     },
     {
       "name": "YEL Token",
@@ -306,7 +275,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/YEL.png",
-   
     },
     {
       "name": "Scream",
@@ -315,7 +283,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SCREAM.png",
-     
     },
     {
       "name": "BABYBOO",
@@ -324,7 +291,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BABYBOO.png",
-   
     },
     {
       "name": "Tarot",
@@ -333,7 +299,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TAROT.png",
-    
     },
     {
       "name": "Death",
@@ -342,7 +307,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/DEATH.png",
-     
     },
     {
       "name": "Fantums of Opera Token",
@@ -351,7 +315,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FOO.png",
-     
     },
     {
       "name": "Syfin",
@@ -360,7 +323,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SYF.png",
-     
     },
     {
       "name": "FTM1337",
@@ -369,7 +331,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ELITE.png",
-     
     },
     {
       "name": "Fantom Oasis Token",
@@ -378,7 +339,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FTMO.png",
-     
     },
     {
       "name": "Wootrade Network",
@@ -387,8 +347,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/WOO.png",
-      
-     
     },
     {
       "name": "Treeb",
@@ -397,7 +355,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TREEB.png",
-      
     },
     {
       "name": "Timechain Swap Token",
@@ -406,7 +363,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TCS.png",
-      
     },
     {
       "name": "Font",
@@ -415,8 +371,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FONT.png",
-
-     
     },
     {
       "name": "Liquid Driver",
@@ -425,7 +379,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/LQDR.png",
- 
     },
     {
       "name": "Geist.Finance Protocol Token",
@@ -434,7 +387,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/GEIST.png",
-    
     },
     {
       "name": "Cougar Token",
@@ -443,7 +395,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CGS.png",
-    
     },
     {
       "name": "Spell Token",
@@ -452,7 +403,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SPELL.png",
-    
     },
     {
       "name": "CoffinDollar",
@@ -461,7 +411,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CoUSD.png",
-   
     },
     {
       "name": "CoffinToken",
@@ -470,7 +419,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/COFFIN.png",
-    
     },
     {
       "name": "CyberFi Token",
@@ -479,7 +427,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CFi.png",
-    
     },
     {
       "name": "DarkMatter",
@@ -488,7 +435,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DMD.png",
-     
     },
     {
       "name": "Dola USD Stablecoin",
@@ -497,7 +443,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DOLA.png",
-    
     },
     {
       "name": "Inverse DAO",
@@ -506,7 +451,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/INV.png",
-
     },
     {
       "name": "TravaFinance Token",
@@ -515,7 +459,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TRAVA.png",
-    
     },
     {
       "name": "Yoshi.exchange",
@@ -524,7 +467,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/YOSHI.png",
-    
     },
     {
       "name": "Fantom Doge",
@@ -533,7 +475,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/RIP.png",
-    
     },
     {
       "name": "Metti Inu",
@@ -542,7 +483,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/Metti.png",
-    
     },
     {
       "name": "FantomStarter",
@@ -551,7 +491,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FS.png",
-    
     },
     {
       "name": "ArtWallet",
@@ -560,7 +499,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/1ART.png",
-     
     },
     {
       "name": "JulSwap",
@@ -569,7 +507,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/JulD.png",
-    
     },
     {
       "name": "miMATIC",
@@ -578,7 +515,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MAI.png",
-      
     },
     {
       "name": "Hector",
@@ -587,7 +523,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/HEC.png",
-    
     },
     {
       "name": "Spartacus",
@@ -596,7 +531,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/SPA.png",
-     
     },
     {
       "name": "JoeToken",
@@ -605,7 +539,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/JOE.png",
-      
     },
     {
       "name": "Fantohm",
@@ -614,7 +547,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/FHM.png",
-    
     },
     {
       "name": "TrueUSD",
@@ -623,7 +555,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TUSD.png",
-
     },
     {
       "name": "moda",
@@ -632,7 +563,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MODA.png",
-     
     },
     {
       "name": "Wrapped sSPA",
@@ -641,7 +571,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/wsSPA.png",
-     
     },
     {
       "name": "Charm Token",
@@ -650,7 +579,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CHARM.png",
-     
     },
     {
       "name": "Wrapped sHEC",
@@ -659,7 +587,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/wsHEC.png",
-    
     },
     {
       "name": "Supernova Token",
@@ -668,7 +595,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SNT.png",
-      
     },
     {
       "name": "Monster",
@@ -677,7 +603,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MST.png",
-     
     },
     {
       "name": "Ducat",
@@ -686,7 +611,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DUCAT.png",
-      
     },
     {
       "name": "OpenOcean",
@@ -695,7 +619,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/OOE.png",
-     
     },
     {
       "name": "DexBrowser",
@@ -704,7 +627,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BRO.png",
-    
     },
     {
       "name": "PaintSwap Token",
@@ -713,7 +635,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BRUSH.png",
-   
     },
     {
       "name": "WingSwap",
@@ -722,7 +643,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/WIS.png",
-    
     },
     {
       "name": "Avalanche",
@@ -731,7 +651,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/AVAX.png",
-     
     },
     {
       "name": "Multichain",
@@ -740,7 +659,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MULTI.png",
-    
     },
     {
       "name": "Polygon",
@@ -749,7 +667,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MATIC.png",
-   
     },
     {
       "name": "Scary Chain Capital",
@@ -758,7 +675,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/SCC.png",
-    
     },
     {
       "name": "Hundred Finance",
@@ -767,7 +683,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/HND.png",
-
     },
     {
       "name": "Creditum",
@@ -776,7 +691,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CREDIT.png",
- 
     },
     {
       "name": "Creditum USD",
@@ -785,7 +699,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/cUSD.png",
-
     },
     {
       "name": "LIQR",
@@ -794,7 +707,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/LIQR.png",
-
     },
     {
       "name": "SUPA Foundation",
@@ -803,7 +715,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SUPA.png",
-
     },
     {
       "name": "Thorstarter Token",
@@ -812,7 +723,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/XRUNE.png",
-
     },
     {
       "name": "Modefi",
@@ -821,7 +731,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MOD.png",
-
     },
     {
       "name": "Statera",
@@ -830,7 +739,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/STA.png",
-
     },
     {
       "name": "FTMLaunch",
@@ -839,7 +747,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FTML.png",
-
     },
     {
       "name": "2omb Token",
@@ -848,7 +755,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/2OMB.png",
-
     },
     {
       "name": "Atlas Cloud",
@@ -857,7 +763,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/Atlas.png",
-
     },
     {
       "name": "2SHARE Token",
@@ -866,7 +771,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/2SHARES.png",
-
     },
     {
       "name": "Power",
@@ -875,7 +779,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/POWER.png",
-
     },
     {
       "name": "DefiLaunch Token",
@@ -884,7 +787,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/fDLAUNCH.png",
-
     },
     {
       "name": "agEUR",
@@ -893,7 +795,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/agEUR.png",
-
     },
     {
       "name": "Poseidon",
@@ -902,7 +803,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/POS.png",
-
     },
     {
       "name": "BeethovenxToken",
@@ -911,7 +811,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BEETS.png",
-
     },
     {
       "name": "0xDAO",
@@ -920,7 +819,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/OXD.png",
-
     },
     {
       "name": "IronBank",
@@ -929,7 +827,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/IB.png",
-
     },
     {
       "name": "War Bond Token",
@@ -938,7 +835,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/WBOND.png",
-
     },
     {
       "name": "Kanpeki",
@@ -947,7 +843,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/KAE.png",
- 
     },
     {
       "name": "5table Token",
@@ -956,7 +851,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/5TABLE.png",
-
     },
     {
       "name": "OneRing",
@@ -965,7 +859,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/RING.png",
-     
     },
     {
       "name": "3OMB Token",
@@ -974,7 +867,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/3OMB.png",
-    
     },
     {
       "name": "3SHARE Token",
@@ -983,7 +875,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/3HARES.png",
-     
     },
     {
       "name": "Lucidao",
@@ -992,7 +883,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/LCD.png",
-      
     },
     {
       "name": "DEAPCOIN",
@@ -1001,7 +891,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DEP.png",
-    
     },
     {
       "name": "Ripae",
@@ -1010,7 +899,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/PAE.png",
-
     },
     {
       "name": "pFTM",
@@ -1019,7 +907,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/pFTM.png",
-    
     },
     {
       "name": "NOKU v2",
@@ -1028,7 +915,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/NOKU.png",
-     
     },
     {
       "name": "MagicCraft",
@@ -1037,7 +923,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/MCRT.png",
-    
     },
     {
       "name": "TOR",
@@ -1046,7 +931,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TOR.png",
-    
     },
     {
       "name": "Growth-Peg Token",
@@ -1055,7 +939,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/GRO.png",
-     
     },
     {
       "name": "AlpacaToken",
@@ -1064,7 +947,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ALPACA.png",
-
     },
     {
       "name": "BASED",
@@ -1073,7 +955,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BASED.png",
-   
     },
     {
       "name": "BSHARE",
@@ -1082,7 +963,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/BSHARE.png",
-
     },
     {
       "name": "Raini",
@@ -1091,7 +971,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/RAINI.png",
-
     },
     {
       "name": "Solid",
@@ -1100,7 +979,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/SOLID.png",
- 
     },
     {
       "name": "DEVIL Token",
@@ -1141,7 +1019,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/PAR.png",
-
     },
     {
       "name": "Oath Token",
@@ -1150,7 +1027,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/OATH.png",
-
     },
     {
       "name": "Wrapped Banano",
@@ -1159,7 +1035,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/wBAN.png",
-   
     },
     {
       "name": "FAME",
@@ -1168,7 +1043,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FAME.png",
-
     },
     {
       "name": "Onino",
@@ -1177,7 +1051,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ONI.png",
-
     },
     {
       "name": "StargateToken",
@@ -1186,7 +1059,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/STG.png",
-
     },
     {
       "name": "QUANTUM",
@@ -1195,7 +1067,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/QTM.png",
-
     },
     {
       "name": "Penguin Karts",
@@ -1204,7 +1075,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/PGK.png",
-
     },
     {
       "name": "ApeCoin",
@@ -1213,7 +1083,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/APE.png",
-
     },
     {
       "name": "Metavault",
@@ -1222,7 +1091,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/MVD.png",
-
     },
     {
       "name": "Code7 Finance",
@@ -1231,7 +1099,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/CODE7.png",
-
     },
     {
       "name": "PanicSwap",
@@ -1240,7 +1107,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/PANIC.png",
-     
     },
     {
       "name": "Elyseos",
@@ -1249,7 +1115,6 @@
       "chainId": 250,
       "decimals": 5,
       "logoURI": "https://assets.spooky.fi/tokens/ELYS.png",
-
     },
     {
       "name": "Orbs",
@@ -1258,7 +1123,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/ORBS.png",
-
     },
     {
       "name": "Tank Gold Token",
@@ -1267,7 +1131,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/TGOLD.png",
-
     },
     {
       "name": "Beefy Escrowed Fantom",
@@ -1276,7 +1139,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/beFTM.png",
-
     },
     {
       "name": "MiniVerse Dollar",
@@ -1285,7 +1147,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MvDOLLAR.png",
-
     },
     {
       "name": "MiniVerse Share",
@@ -1294,7 +1155,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/MSHARE.png",
-
     },
     {
       "name": "Volta",
@@ -1303,7 +1163,6 @@
       "chainId": 250,
       "decimals": 9,
       "logoURI": "https://assets.spooky.fi/tokens/VOLTa.png",
-
     },
     {
       "name": "Wrapped TurtleCoins",
@@ -1312,7 +1171,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/wTRTL.png",
-
     },
     {
       "name": "Raid Token",
@@ -1321,9 +1179,7 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/R4ID.png",
-
     },
-    
     {
       "name": "DEUS",
       "symbol": "DEUS",
@@ -1331,7 +1187,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DEUS.png",
-
     },
     {
       "name": "DEI",
@@ -1340,7 +1195,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/DEI.png",
-
     },
     {
       "name": "Fantom Libero Financial Freedom",
@@ -1349,9 +1203,7 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/FLIBERO.png",
-
     },
-   
     {
       "name": "sFTMX",
       "symbol": "sFTMX",
@@ -1359,7 +1211,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/sFTMX.png",
-
     },
     {
       "name": "Nodeify",
@@ -1368,7 +1219,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/NDFI.png",
-
     },
     {
       "name": "governanceALCX",
@@ -1377,7 +1227,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spooky.fi/tokens/gALCX.png",
-
     }
   ]
 }
