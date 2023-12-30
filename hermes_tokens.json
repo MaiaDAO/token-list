@@ -94,6 +94,14 @@
       "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xaFF73f55968Ab4b276a26E574c96e09A615b13d6.svg"
     },
     {
+      "address": "0x69fdb77064ec5c84fa2f21072973eb28441f43f3",
+      "chainId": 1088,
+      "name": "Tethys",
+      "symbol": "TETHYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x69fdb77064ec5c84fa2f21072973eb28441f43f3.svg"
+    },
+    {
       "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
       "chainId": 1088,
       "name": "HERA",
